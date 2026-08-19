@@ -9,11 +9,6 @@ Tenho foco em desenvolvimento backend com Python, Flask, APIs REST e bancos de d
 
 Python • Flask • SQLAlchemy • SQL • JavaScript • HTML • CSS • Git
 
-## Projetos em destaque
-
-# Deputados
-Projeto de consulta e exibição de informações utilizando dados públicos.
-
 ## Atualmente
 
 - Cursando Engenharia de Software na UNICID
