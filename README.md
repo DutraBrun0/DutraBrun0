@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno Dutra 👋
+# Olá, eu sou Bruno Dutra
 
 Sou estudante de Engenharia de Software na UNICID e formado no curso técnico de Análise e Desenvolvimento de Sistemas pelo SENAI.
 
