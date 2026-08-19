@@ -17,4 +17,4 @@ Python • Flask • SQLAlchemy • SQL • JavaScript • HTML • CSS • Git
 
 ## Contato
 
-[LinkedIn](www.linkedin.com/in/brunodutraaa)
+[LinkedIn](https://www.linkedin.com/in/brunodutraaa/)
