@@ -11,7 +11,7 @@ Python • Flask • SQLAlchemy • SQL • JavaScript • HTML • CSS • Git
 
 ## Projetos em destaque
 
-## Deputados
+# Deputados
 Projeto de consulta e exibição de informações utilizando dados públicos.
 
 ## Atualmente
