@@ -1,16 +1,25 @@
-## Hi there 👋
+# Oii, meu nome é Bruno Dutra
 
-<!--
-**DutraBrun0/DutraBrun0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software, formado no curso técnico de
+Análise e Desenvolvimento de Sistemas.
 
-Here are some ideas to get you started:
+Tenho foco em desenvolvimento backend com Python, Flask, APIs REST e bancos de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+Python • Flask • SQLAlchemy • SQL • JavaScript • HTML • CSS • Git
+
+## Projetos em destaque
+
+## Deputados
+Projeto de consulta e exibição de informações utilizando dados públicos.
+
+## Atualmente
+
+- Cursando Engenharia de Software na UNICID
+- Aprimorando meus conhecimentos em backend
+- Buscando uma oportunidade de estágio em desenvolvimento
+
+## Contato
+
+[LinkedIn](www.linkedin.com/in/brunodutraaa)
