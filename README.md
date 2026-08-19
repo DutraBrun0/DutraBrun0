@@ -7,7 +7,7 @@ Tenho foco em desenvolvimento backend com Python, Flask, APIs REST e bancos de d
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,js,html,css,git,github&theme=dark" alt="Tecnologias utilizadas" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github&theme=dark" alt="Tecnologias utilizadas" />
 </p>
 
 ## 📚 Atualmente
