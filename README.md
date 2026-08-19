@@ -1,7 +1,7 @@
-# Oii, meu nome é Bruno Dutra
+# Olá, eu sou o Bruno Dutra
 
 Sou estudante de Engenharia de Software, formado no curso técnico de
-Análise e Desenvolvimento de Sistemas.
+Análise e Desenvolvimento de Sistemas pelo SENAI.
 
 Tenho foco em desenvolvimento backend com Python, Flask, APIs REST e bancos de dados.
 
