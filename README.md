@@ -10,6 +10,18 @@ Tenho foco em desenvolvimento backend com Python, Flask, APIs REST e bancos de d
   <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,git,github&theme=dark" alt="Tecnologias utilizadas" />
 </p>
 
+## Projetos em destaque
+
+### ProdManager
+Sistema completo de gestão de produtos, estoque, clientes e pedidos,
+com autenticação, permissões e testes automatizados.
+
+### GitScope
+Aplicação Flask que analisa perfis e linguagens utilizando a API do GitHub.
+
+### Mandato Aberto
+Aplicação JavaScript para consultar dados públicos de deputados federais.
+
 ## 📚 Atualmente
 
 - Cursando Engenharia de Software na UNICID
