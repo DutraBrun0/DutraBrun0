@@ -5,8 +5,6 @@
 [![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+%40+UNICID;Construindo+aplica%C3%A7%C3%B5es+com+Python+e+Flask)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/DutraBrun0"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=DutraBrun0&label=Visitas&color=16A34A&style=for-the-badge" alt="Contador de visitas do perfil"/>
 
 </div>
 
