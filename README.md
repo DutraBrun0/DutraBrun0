@@ -2,63 +2,69 @@
 
 <div align="center">
 
-[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Python+%7C+Flask+%7C+SQL;Engenharia+de+Software+%40+UNICID)](https://git.io/typing-svg)
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+%40+UNICID;Construindo+aplica%C3%A7%C3%B5es+com+Python+e+Flask)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para-Est%C3%A1gio%20em%20Desenvolvimento-22C55E?style=for-the-badge" alt="Disponível para estágio em desenvolvimento"/>
 <a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/DutraBrun0"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=DutraBrun0&label=Visitas&color=16A34A&style=for-the-badge" alt="Contador de visitas do perfil"/>
 
 </div>
 
-## 👋 Sobre mim
+## Sobre mim
 
-Sou estudante de **Engenharia de Software na UNICID** e formado no curso técnico de **Análise e Desenvolvimento de Sistemas pelo SENAI/SP**.
+```yaml
+nome:          Bruno Moreira Dutra
+localização:   São Paulo, Brasil
+formação:      Engenharia de Software @ UNICID
+base_técnica:  Análise e Desenvolvimento de Sistemas @ SENAI
+foco:          Python • Flask • APIs REST • Bancos de dados
+objetivo:      Estágio em desenvolvimento de software
+```
 
-Meu foco é o desenvolvimento back-end com **Python e Flask**. Tenho experiência prática na construção de aplicações web com autenticação, controle de acesso, bancos de dados, integração com APIs e testes automatizados.
+Gosto de transformar regras de negócio em aplicações organizadas e funcionais. Tenho direcionado meus estudos ao desenvolvimento back-end, trabalhando com autenticação, controle de acesso, bancos de dados, consumo de APIs e testes automatizados.
 
-Busco uma oportunidade de **estágio em desenvolvimento de software** para aplicar meus conhecimentos em projetos reais, aprender com uma equipe e evoluir profissionalmente.
+Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e construir um portfólio que demonstre não apenas as tecnologias que conheço, mas também os problemas que consigo resolver com elas.
 
-## 🧰 Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-### Back-end e dados
+### Back-end e banco de dados
 
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite&theme=dark" alt="Python, Flask, MySQL e SQLite"/>
 
 ### Front-end e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e Visual Studio Code"/>
-
-<br/><br/>
-
-**SQLAlchemy • Flask-Migrate • Pytest • Jinja • Requests • APIs REST**
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"/>
 
 </div>
 
-## ⚙️ Conhecimentos aplicados
+Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integração com **APIs REST** nos meus projetos.
 
-| Área | Conhecimentos |
-|---|---|
-| **Desenvolvimento back-end** | Rotas, sessões, autenticação, controle de acesso por perfil e regras de negócio |
-| **Bancos de dados** | Modelagem, relacionamentos, consultas SQL, MySQL, SQLite e migrações |
-| **Qualidade e segurança** | Testes com Pytest, validação de dados, hash de senhas e variáveis de ambiente |
-| **Integração com APIs** | Consumo de APIs REST, tratamento de erros, limites de requisição e dados externos |
-| **Front-end** | Interfaces responsivas com HTML, CSS, JavaScript e templates Jinja |
+## 🚀 Projetos em destaque
+
+| Projeto | O que ele demonstra | Principais tecnologias |
+|---|---|---|
+| [**ProdManager**](https://github.com/DutraBrun0/ProdManager) | Sistema de gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrações e testes automatizados. | Python, Flask, MySQL, SQLAlchemy, Pytest |
+| [**GitScope**](https://github.com/DutraBrun0/GitScope) | Aplicação que consulta a API do GitHub e transforma dados de perfis, repositórios e linguagens em uma análise visual. | Python, Flask, Jinja, Requests, Pytest |
+| [**Mandato Aberto**](https://github.com/DutraBrun0/Mandato-aberto) | Consulta de informações públicas sobre deputados federais por meio da API de Dados Abertos da Câmara. | JavaScript, Fetch API, HTML, CSS |
 
 ## 🎓 Formação
 
 - **Engenharia de Software — UNICID**  
-  Graduação em andamento desde 2026.
+  Graduação em andamento.
 
 - **Análise e Desenvolvimento de Sistemas — SENAI/SP**  
   Curso técnico concluído.
 
-## 🤝 Contato
+---
 
 <div align="center">
 
-Estou disponível para oportunidades de **estágio em desenvolvimento de software**, especialmente em back-end.
+### Vamos nos conectar?
 
-<a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/Falar%20comigo%20no%20LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="Entrar em contato pelo LinkedIn"/></a>
+Estou em busca de uma oportunidade de estágio em desenvolvimento de software e aberto a trocar ideias sobre projetos, tecnologia e back-end.
+
+[**Acesse meu LinkedIn**](https://www.linkedin.com/in/brunodutraaa/)
 
 </div>
