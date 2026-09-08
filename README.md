@@ -57,14 +57,6 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 - **Análise e Desenvolvimento de Sistemas — SENAI/SP**  
   Curso técnico concluído.
 
-## 📊 GitHub em números
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=DutraBrun0&hide_border=true&background=0F172A&stroke=16A34A&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&locale=pt_BR" alt="Sequência de contribuições de Bruno Dutra no GitHub"/>
-
-</div>
-
 ---
 
 <div align="center">
