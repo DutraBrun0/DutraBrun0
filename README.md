@@ -55,11 +55,3 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
   Curso técnico concluído.
 
 ---
-
-<div align="center">
-
-### Vamos nos conectar?
-
-Estou sempre aberto a trocar ideias sobre desenvolvimento back-end, projetos e tecnologia.
-
-</div>
