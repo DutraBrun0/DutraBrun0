@@ -18,7 +18,6 @@ localização:   São Paulo, Brasil
 formação:      Engenharia de Software @ UNICID
 base_técnica:  Análise e Desenvolvimento de Sistemas @ SENAI
 foco:          Python • Flask • APIs REST • Bancos de dados
-objetivo:      Estágio em desenvolvimento de software
 ```
 
 Gosto de transformar regras de negócio em aplicações organizadas e funcionais. Tenho direcionado meus estudos ao desenvolvimento back-end, trabalhando com autenticação, controle de acesso, bancos de dados, consumo de APIs e testes automatizados.
