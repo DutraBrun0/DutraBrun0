@@ -10,7 +10,7 @@
 
 </div>
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 ```yaml
 nome:          Bruno Moreira Dutra
