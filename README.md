@@ -13,9 +13,9 @@
 
 Sou estudante de **Engenharia de Software na UNICID** e formado no curso técnico de **Análise e Desenvolvimento de Sistemas pelo SENAI/SP**.
 
-Meu foco é o desenvolvimento back-end com **Python e Flask**. Nos meus projetos, transformo regras de negócio em aplicações web com autenticação, controle de acesso, bancos de dados, integrações com APIs e testes automatizados.
+Meu foco é o desenvolvimento back-end com **Python e Flask**. Tenho experiência prática na construção de aplicações web com autenticação, controle de acesso, bancos de dados, integração com APIs e testes automatizados.
 
-Busco uma oportunidade de **estágio em desenvolvimento de software** para aplicar essa base em projetos reais, aprender com uma equipe e evoluir profissionalmente.
+Busco uma oportunidade de **estágio em desenvolvimento de software** para aplicar meus conhecimentos em projetos reais, aprender com uma equipe e evoluir profissionalmente.
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -29,9 +29,7 @@ Busco uma oportunidade de **estágio em desenvolvimento de software** para aplic
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e Visual Studio Code"/>
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 **SQLAlchemy • Flask-Migrate • Pytest • Jinja • Requests • APIs REST**
 
@@ -39,67 +37,13 @@ Busco uma oportunidade de **estágio em desenvolvimento de software** para aplic
 
 ## ⚙️ Conhecimentos aplicados
 
-| Área | O que já aplico nos meus projetos |
+| Área | Conhecimentos |
 |---|---|
 | **Desenvolvimento back-end** | Rotas, sessões, autenticação, controle de acesso por perfil e regras de negócio |
 | **Bancos de dados** | Modelagem, relacionamentos, consultas SQL, MySQL, SQLite e migrações |
 | **Qualidade e segurança** | Testes com Pytest, validação de dados, hash de senhas e variáveis de ambiente |
 | **Integração com APIs** | Consumo de APIs REST, tratamento de erros, limites de requisição e dados externos |
 | **Front-end** | Interfaces responsivas com HTML, CSS, JavaScript e templates Jinja |
-
-## 🚀 Projetos em destaque
-
-### ProdManager
-
-<p align="center">
-  <a href="https://github.com/DutraBrun0/ProdManager">
-    <img width="850" src="https://raw.githubusercontent.com/DutraBrun0/ProdManager/main/docs/images/dashboard-admin.png" alt="Dashboard administrativo do ProdManager"/>
-  </a>
-</p>
-
-Sistema web para centralizar o gerenciamento de **produtos, variantes, estoque, clientes e pedidos**.
-
-**Destaques:** autenticação, quatro perfis de acesso, controle individual de estoque, histórico de movimentações, validação antes da venda, cancelamento com devolução automática, dashboard e testes automatizados.
-
-**Stack:** Python, Flask, MySQL, SQLAlchemy, Flask-Migrate, Pytest, HTML, CSS e JavaScript.
-
-<a href="https://github.com/DutraBrun0/ProdManager"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório do ProdManager"/></a>
-
----
-
-### GitScope
-
-<p align="center">
-  <a href="https://github.com/DutraBrun0/GitScope">
-    <img width="850" src="https://raw.githubusercontent.com/DutraBrun0/GitScope/main/assets/gitscope-preview.png" alt="Interface do GitScope"/>
-  </a>
-</p>
-
-Aplicação web que consulta a API do GitHub e transforma dados públicos em uma análise de **perfil, repositórios, estrelas e linguagens utilizadas**.
-
-**Destaques:** integração com API REST, análise dos repositórios mais recentes, cálculo de porcentagens por linguagem, tratamento de usuários inexistentes, falhas externas e limite da API.
-
-**Stack:** Python, Flask, Jinja, Requests, Pytest, HTML e CSS.
-
-<a href="https://github.com/DutraBrun0/GitScope"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório do GitScope"/></a>
-
----
-
-### Mandato Aberto
-
-<p align="center">
-  <a href="https://github.com/DutraBrun0/Mandato-aberto">
-    <img width="850" src="https://raw.githubusercontent.com/DutraBrun0/Mandato-aberto/main/images/home.PNG" alt="Página inicial do Mandato Aberto"/>
-  </a>
-</p>
-
-Aplicação para consultar informações públicas sobre **deputados federais brasileiros** por meio da API de Dados Abertos da Câmara dos Deputados.
-
-**Destaques:** requisições assíncronas, pesquisa por nome, manipulação do DOM, validação de dados, tratamento de erros e interface responsiva sem frameworks visuais.
-
-**Stack:** JavaScript, Fetch API, HTML e CSS.
-
-<a href="https://github.com/DutraBrun0/Mandato-aberto"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Acessar repositório do Mandato Aberto"/></a>
 
 ## 🎓 Formação
 
