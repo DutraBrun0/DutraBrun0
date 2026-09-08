@@ -10,7 +10,7 @@
 
 </div>
 
-##  Sobre mim
+## Sobre mim
 
 ```yaml
 nome:          Bruno Moreira Dutra
@@ -61,8 +61,7 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DutraBrun0&show_icons=true&hide_border=true&bg_color=0F172A&title_color=22C55E&icon_color=22C55E&text_color=E2E8F0&locale=pt-br" alt="Estatísticas do GitHub de Bruno Dutra"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutraBrun0&layout=compact&hide_border=true&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&locale=pt-br" alt="Linguagens mais utilizadas por Bruno Dutra"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=DutraBrun0&hide_border=true&background=0F172A&stroke=16A34A&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=E2E8F0&dates=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&locale=pt_BR" alt="Sequência de contribuições de Bruno Dutra no GitHub"/>
 
 </div>
 
