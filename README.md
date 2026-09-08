@@ -16,12 +16,6 @@ Tenho foco em desenvolvimento backend com Python, Flask, APIs REST e bancos de d
 Sistema completo de gestão de produtos, estoque, clientes e pedidos,
 com autenticação, permissões e testes automatizados.
 
-### GitScope
-Aplicação Flask que analisa perfis e linguagens utilizando a API do GitHub.
-
-### Mandato Aberto
-Aplicação JavaScript para consultar dados públicos de deputados federais.
-
 ## 📚 Atualmente
 
 - Cursando Engenharia de Software na UNICID
