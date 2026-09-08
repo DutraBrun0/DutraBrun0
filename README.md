@@ -60,8 +60,6 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 ### Vamos nos conectar?
 
-Estou em busca de uma oportunidade de estágio em desenvolvimento de software e aberto a trocar ideias sobre projetos, tecnologia e back-end.
-
-[**Acesse meu LinkedIn**](https://www.linkedin.com/in/brunodutraaa/)
+Estou sempre aberto a trocar ideias sobre desenvolvimento back-end, projetos e tecnologia.
 
 </div>
