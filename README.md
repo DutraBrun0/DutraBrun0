@@ -45,7 +45,7 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 <div align="center">
 
 <a href="https://github.com/DutraBrun0/ProdManager">
-  <img src="./assets/prodmanager.svg" width="100%" alt="ProdManager — gestão de produtos, estoque e pedidos"/>
+  <img src="./assets/prodmanager.svg" width="70%" alt="ProdManager — gestão de produtos, estoque e pedidos"/>
 </a>
 
 <a href="https://github.com/DutraBrun0/FPS-ASCII">
