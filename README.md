@@ -1,14 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,55:14532D,100:22C55E&height=190&section=header&text=Bruno%20Dutra&fontColor=ffffff&fontSize=46&fontAlignY=40&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20APIs%20REST%20%E2%80%A2%20SQL&descAlignY=64&descSize=18" alt="Banner de apresentação de Bruno Dutra"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:14532D,100:22C55E&height=220&section=header&text=Bruno%20Dutra&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20APIs%20REST%20%E2%80%A2%20SQL&descAlignY=60&descSize=18&animation=fadeIn" alt="Banner animado de apresentação de Bruno Dutra"/>
 
 <div align="center">
 
 [![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+%40+UNICID;Construindo+aplica%C3%A7%C3%B5es+com+Python+e+Flask)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://SEU-PORTFOLIO-AQUI.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=firefox-browser&logoColor=22C55E" alt="Portfólio"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=DutraBrun0&label=Visitas&color=22c55e&style=flat-square" alt="Contador de visitas"/>
 
 </div>
 
-## Sobre mim
+## 👋 Sobre mim
 
 ```yaml
 nome:          Bruno Moreira Dutra
@@ -40,11 +43,89 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 ## 🚀 Projetos em destaque
 
-| Projeto | O que ele demonstra | Principais tecnologias |
-|---|---|---|
-| [**ProdManager**](https://github.com/DutraBrun0/ProdManager) | Sistema de gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrações e testes automatizados. | Python, Flask, MySQL, SQLAlchemy, Pytest |
-| [**FPS-ASCII**](https://github.com/DutraBrun0/FPS-ASCII) | FPS de sobrevivência com renderização ASCII, raycasting, diferentes armas, inimigos, chefes e sistema progressivo de ondas. |Python, pygame-ce, Raycasting |
-| **[Incident 03:17](https://github.com/DutraBrun0/incident-0317)** | Simulador de resposta a incidentes com terminal, múltiplos cenários, pistas e diferentes resultados. | Python, Flask, JavaScript, Jinja e Pytest |
+<div align="center">
+
+<a href="https://github.com/DutraBrun0/ProdManager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=ProdManager&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do ProdManager"/>
+</a>
+<a href="https://github.com/DutraBrun0/FPS-ASCII">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=FPS-ASCII&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do FPS-ASCII"/>
+</a>
+<a href="https://github.com/DutraBrun0/incident-0317">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=incident-0317&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do Incident 03:17"/>
+</a>
+
+</div>
+
+> 💡 Clique em cada projeto abaixo para ver os detalhes.
+
+<details>
+<summary><b>📦 ProdManager</b> — gestão de produtos, estoque e pedidos</summary>
+<br>
+
+Sistema completo de gestão de **produtos, variantes, estoque, clientes e pedidos**.
+
+- 🔐 Autenticação e perfis de acesso
+- 🗄️ Migrações de banco de dados com Flask-Migrate
+- ✅ Testes automatizados com Pytest
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=22C55E)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=22C55E)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0F172A?style=flat-square&logoColor=22C55E)
+![Pytest](https://img.shields.io/badge/Pytest-0F172A?style=flat-square&logo=pytest&logoColor=22C55E)
+
+👉 [Ver repositório](https://github.com/DutraBrun0/ProdManager)
+
+</details>
+
+<details>
+<summary><b>🎮 FPS-ASCII</b> — FPS de sobrevivência renderizado em ASCII</summary>
+<br>
+
+Jogo de tiro em primeira pessoa com visual 100% ASCII.
+
+- 🔦 Renderização com **raycasting**
+- 🔫 Diferentes armas
+- 👾 Inimigos e chefes
+- 🌊 Sistema progressivo de ondas
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E)
+![pygame-ce](https://img.shields.io/badge/pygame--ce-0F172A?style=flat-square&logoColor=22C55E)
+![Raycasting](https://img.shields.io/badge/Raycasting-0F172A?style=flat-square&logoColor=22C55E)
+
+👉 [Ver repositório](https://github.com/DutraBrun0/FPS-ASCII)
+
+</details>
+
+<details>
+<summary><b>🚨 Incident 03:17</b> — simulador de resposta a incidentes</summary>
+<br>
+
+Simulador com interface de terminal para treinar resposta a incidentes.
+
+- 🖥️ Terminal interativo
+- 🧩 Múltiplos cenários e pistas para investigar
+- 🔀 Diferentes resultados conforme as decisões tomadas
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=22C55E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=22C55E)
+![Jinja](https://img.shields.io/badge/Jinja-0F172A?style=flat-square&logo=jinja&logoColor=22C55E)
+![Pytest](https://img.shields.io/badge/Pytest-0F172A?style=flat-square&logo=pytest&logoColor=22C55E)
+
+👉 [Ver repositório](https://github.com/DutraBrun0/incident-0317)
+
+</details>
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DutraBrun0&show_icons=true&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&hide_border=false" alt="Estatísticas do GitHub"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutraBrun0&layout=compact&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&border_color=14532D" alt="Linguagens mais usadas"/>
+
+</div>
 
 ## 🎓 Formação
 
@@ -54,4 +135,6 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 - **Análise e Desenvolvimento de Sistemas — SENAI/SP**  
   Curso técnico concluído.
 
----
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0F172A&height=100&section=footer" alt="Rodapé"/>
