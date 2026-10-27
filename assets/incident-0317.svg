@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="368" viewBox="0 0 820 368" role="img" aria-label="incident-0317 — simulador de resposta a incidentes">
+<style>text{font-family:"Fira Code","JetBrains Mono",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:15px;white-space:pre}.l{opacity:0;animation:in .25s ease forwards}@keyframes in{to{opacity:1}}.cursor{animation:blink 1s step-end infinite}@keyframes blink{50%{opacity:0}}</style>
+<rect x="1" y="1" width="818" height="366" rx="10" fill="#0F172A" stroke="#14532D" stroke-width="2"/>
+<path d="M1 11a10 10 0 0 1 10-10h798a10 10 0 0 1 10 10v25H1z" fill="#1E293B"/>
+<circle cx="22" cy="19" r="6" fill="#EF4444"/><circle cx="42" cy="19" r="6" fill="#EAB308"/><circle cx="62" cy="19" r="6" fill="#22C55E"/>
+<text x="410.0" y="24" text-anchor="middle" fill="#94A3B8" style="font-size:13px">bruno@dutra: ~/projetos/incident-0317</text>
+<text class="l" x="28" y="72" style="animation-delay:0.00s"><tspan fill="#22C55E" font-weight="700">bruno@dutra</tspan><tspan fill="#E2E8F0">:</tspan><tspan fill="#38BDF8" font-weight="700">~/projetos/incident-0317</tspan><tspan fill="#E2E8F0">$ </tspan><tspan fill="#E2E8F0">cat README.md</tspan></text>
+<text class="l" x="28" y="120" style="animation-delay:0.30s"><tspan fill="#22C55E" font-weight="700"># </tspan><tspan fill="#F8FAFC" font-weight="700">incident-0317</tspan><tspan fill="#94A3B8">  — simulador de resposta a incidentes</tspan></text>
+<text class="l" x="28" y="144" style="animation-delay:0.45s"><tspan fill="#CBD5E1">Simulador com interface de terminal para treinar resposta a incidentes.</tspan></text>
+<text class="l" x="28" y="192" style="animation-delay:0.75s"><tspan fill="#64748B">  [</tspan><tspan fill="#22C55E" font-weight="700">✔</tspan><tspan fill="#64748B">] </tspan><tspan fill="#E2E8F0">Terminal interativo</tspan></text>
+<text class="l" x="28" y="216" style="animation-delay:0.90s"><tspan fill="#64748B">  [</tspan><tspan fill="#22C55E" font-weight="700">✔</tspan><tspan fill="#64748B">] </tspan><tspan fill="#E2E8F0">Múltiplos cenários e pistas para investigar</tspan></text>
+<text class="l" x="28" y="240" style="animation-delay:1.05s"><tspan fill="#64748B">  [</tspan><tspan fill="#22C55E" font-weight="700">✔</tspan><tspan fill="#64748B">] </tspan><tspan fill="#E2E8F0">Finais diferentes conforme as decisões</tspan></text>
+<text class="l" x="28" y="288" style="animation-delay:1.35s"><tspan fill="#64748B">  stack: </tspan><tspan fill="#4ADE80">python · flask · javascript · jinja · pytest</tspan></text>
+<text class="l" x="28" y="336" style="animation-delay:1.65s"><tspan fill="#22C55E" font-weight="700">bruno@dutra</tspan><tspan fill="#E2E8F0">:</tspan><tspan fill="#38BDF8" font-weight="700">~/projetos/incident-0317</tspan><tspan fill="#E2E8F0">$ </tspan><tspan fill="#22C55E" font-weight="700" class="cursor">_</tspan></text>
+</svg>
