@@ -53,7 +53,7 @@ destaques:
 stack: Python • Flask • MySQL • SQLAlchemy • Pytest
 ```
 
-### 🎮 [FPS-ASCII](https://github.com/DutraBrun0/FPS-ASCII)
+### [FPS-ASCII](https://github.com/DutraBrun0/FPS-ASCII)
 
 ```yaml
 descrição: FPS de sobrevivência com visual 100% ASCII
@@ -65,7 +65,7 @@ destaques:
 stack: Python • pygame-ce • Raycasting
 ```
 
-### 🚨 [Incident 03:17](https://github.com/DutraBrun0/incident-0317)
+### [Incident 03:17](https://github.com/DutraBrun0/incident-0317)
 
 ```yaml
 descrição: Simulador com interface de terminal para treinar resposta a incidentes
