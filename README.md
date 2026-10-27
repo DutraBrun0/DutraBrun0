@@ -118,14 +118,6 @@ Simulador com interface de terminal para treinar resposta a incidentes.
 
 </details>
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DutraBrun0&show_icons=true&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&hide_border=false" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DutraBrun0&layout=compact&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&border_color=14532D" alt="Linguagens mais usadas"/>
-
-</div>
 
 ## 🎓 Formação
 
