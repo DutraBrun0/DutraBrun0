@@ -45,18 +45,77 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 <div align="center">
 
 <a href="https://github.com/DutraBrun0/ProdManager">
-  <img src="./assets/prodmanager.svg" width="80%" alt="ProdManager — gestão de produtos, estoque e pedidos"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=ProdManager&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do ProdManager"/>
 </a>
-
 <a href="https://github.com/DutraBrun0/FPS-ASCII">
-  <img src="./assets/fps-ascii.svg" width="80%" alt="FPS-ASCII — FPS de sobrevivência em ASCII"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=FPS-ASCII&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do FPS-ASCII"/>
 </a>
-
 <a href="https://github.com/DutraBrun0/incident-0317">
-  <img src="./assets/incident-0317.svg" width="80%" alt="Incident 03:17 — simulador de resposta a incidentes"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=incident-0317&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do Incident 03:17"/>
 </a>
 
 </div>
+
+> 💡 Clique em cada projeto abaixo para ver os detalhes.
+
+<details>
+<summary><b>📦 ProdManager</b> — gestão de produtos, estoque e pedidos</summary>
+<br>
+
+Sistema completo de gestão de **produtos, variantes, estoque, clientes e pedidos**.
+
+- 🔐 Autenticação e perfis de acesso
+- 🗄️ Migrações de banco de dados com Flask-Migrate
+- ✅ Testes automatizados com Pytest
+
+!Python (→ img.shields.io)
+!Flask (→ img.shields.io)
+!MySQL (→ img.shields.io)
+!SQLAlchemy (→ img.shields.io)
+!Pytest (→ img.shields.io)
+
+👉 Ver repositório (→ github.com)
+
+</details>
+
+<details>
+<summary><b>🎮 FPS-ASCII</b> — FPS de sobrevivência renderizado em ASCII</summary>
+<br>
+
+Jogo de tiro em primeira pessoa com visual 100% ASCII.
+
+- 🔦 Renderização com **raycasting**
+- 🔫 Diferentes armas
+- 👾 Inimigos e chefes
+- 🌊 Sistema progressivo de ondas
+
+!Python (→ img.shields.io)
+!pygame-ce (→ img.shields.io)
+!Raycasting (→ img.shields.io)
+
+👉 Ver repositório (→ github.com)
+
+</details>
+
+<details>
+<summary><b>🚨 Incident 03:17</b> — simulador de resposta a incidentes</summary>
+<br>
+
+Simulador com interface de terminal para treinar resposta a incidentes.
+
+- 🖥️ Terminal interativo
+- 🧩 Múltiplos cenários e pistas para investigar
+- 🔀 Diferentes resultados conforme as decisões tomadas
+
+!Python (→ img.shields.io)
+!Flask (→ img.shields.io)
+!JavaScript (→ img.shields.io)
+!Jinja (→ img.shields.io)
+!Pytest (→ img.shields.io)
+
+👉 Ver repositório (→ github.com)
+
+</details>
 
 ## 🎓 Formação
 
