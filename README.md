@@ -40,40 +40,40 @@ Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e c
 
 Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integração com **APIs REST** nos meus projetos.
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
-### 📦 [ProdManager](https://github.com/DutraBrun0/ProdManager)
+### [ProdManager](https://github.com/DutraBrun0/ProdManager)
 
 ```yaml
-descrição:   Gestão de produtos, variantes, estoque, clientes e pedidos
+descrição: Gestão de produtos, variantes, estoque, clientes e pedidos
 destaques:
   - Autenticação e perfis de acesso
   - Migrações de banco de dados com Flask-Migrate
   - Testes automatizados com Pytest
-stack:       Python • Flask • MySQL • SQLAlchemy • Pytest
+stack: Python • Flask • MySQL • SQLAlchemy • Pytest
 ```
 
 ### 🎮 [FPS-ASCII](https://github.com/DutraBrun0/FPS-ASCII)
 
 ```yaml
-descrição:   FPS de sobrevivência com visual 100% ASCII
+descrição: FPS de sobrevivência com visual 100% ASCII
 destaques:
   - Renderização com raycasting
   - Diferentes armas
   - Inimigos e chefes
   - Sistema progressivo de ondas
-stack:       Python • pygame-ce • Raycasting
+stack: Python • pygame-ce • Raycasting
 ```
 
 ### 🚨 [Incident 03:17](https://github.com/DutraBrun0/incident-0317)
 
 ```yaml
-descrição:   Simulador com interface de terminal para treinar resposta a incidentes
+descrição: Simulador com interface de terminal para treinar resposta a incidentes
 destaques:
   - Terminal interativo
   - Múltiplos cenários e pistas para investigar
   - Diferentes resultados conforme as decisões tomadas
-stack:       Python • Flask • JavaScript • Jinja • Pytest
+stack: Python • Flask • JavaScript • Jinja • Pytest
 ```
 
 ##  Formação
