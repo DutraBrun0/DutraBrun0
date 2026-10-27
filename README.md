@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Apresentação animada (→ readme-typing-svg.demolab.com)] (https://git.io/typing-svg)
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+%40+UNICID;Construindo+aplica%C3%A7%C3%B5es+com+Python+e+Flask)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfoliobrunodutra.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=firefox-browser&logoColor=22C55E" alt="Portfólio"/></a>
@@ -12,11 +12,14 @@
 
 ## 👋 Sobre mim
 
+```yaml
 nome:          Bruno Moreira Dutra
 localização:   São Paulo, Brasil
 formação:      Engenharia de Software @ UNICID
 base_técnica:  Análise e Desenvolvimento de Sistemas @ SENAI
 foco:          Python • Flask • APIs REST • Bancos de dados
+```
+
 Gosto de transformar regras de negócio em aplicações organizadas e funcionais. Tenho direcionado meus estudos ao desenvolvimento back-end, trabalhando com autenticação, controle de acesso, bancos de dados, consumo de APIs e testes automatizados.
 
 Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e construir um portfólio que demonstre não apenas as tecnologias que conheço, mas também os problemas que consigo resolver com elas.
@@ -39,53 +42,81 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 ## 🚀 Projetos em destaque
 
-```console
-bruno@dutra:~$ ls ~/projetos
-ProdManager/    FPS-ASCII/    incident-0317/
-```
+<div align="center">
 
-```console
-bruno@dutra:~$ cat ~/projetos/ProdManager/README
-> ProdManager — gestão de produtos, estoque e pedidos
+<a href="https://github.com/DutraBrun0/ProdManager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=ProdManager&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do ProdManager"/>
+</a>
+<a href="https://github.com/DutraBrun0/FPS-ASCII">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=FPS-ASCII&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do FPS-ASCII"/>
+</a>
+<a href="https://github.com/DutraBrun0/incident-0317">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DutraBrun0&repo=incident-0317&theme=dark&bg_color=0F172A&title_color=22C55E&text_color=E2E8F0&icon_color=22C55E&border_color=14532D&show_owner=false" alt="Card do Incident 03:17"/>
+</a>
 
-  Sistema de gestão de produtos, variantes, estoque, clientes e pedidos.
+</div>
 
-  [✔] Autenticação e perfis de acesso
-  [✔] Migrações de banco com Flask-Migrate
-  [✔] Testes automatizados com Pytest
+> 💡 Clique em cada projeto abaixo para ver os detalhes.
 
-  stack: python · flask · mysql · sqlalchemy · pytest
-```
-<a href="https://github.com/DutraBrun0/ProdManager"><img src="https://img.shields.io/badge/cd%20ProdManager-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="Abrir repositório do ProdManager"/></a>
+<details>
+<summary><b>📦 ProdManager</b> — gestão de produtos, estoque e pedidos</summary>
+<br>
 
-```console
-bruno@dutra:~$ cat ~/projetos/FPS-ASCII/README
-> FPS-ASCII — FPS de sobrevivência renderizado em ASCII
+Sistema completo de gestão de **produtos, variantes, estoque, clientes e pedidos**.
 
-  Jogo de tiro em primeira pessoa com visual 100% ASCII.
+- 🔐 Autenticação e perfis de acesso
+- 🗄️ Migrações de banco de dados com Flask-Migrate
+- ✅ Testes automatizados com Pytest
 
-  [✔] Renderização com raycasting
-  [✔] Diferentes armas
-  [✔] Inimigos e chefes
-  [✔] Sistema progressivo de ondas
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=22C55E)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=22C55E)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0F172A?style=flat-square&logoColor=22C55E)
+![Pytest](https://img.shields.io/badge/Pytest-0F172A?style=flat-square&logo=pytest&logoColor=22C55E)
 
-  stack: python · pygame-ce · raycasting
-```
-<a href="https://github.com/DutraBrun0/FPS-ASCII"><img src="https://img.shields.io/badge/cd%20FPS--ASCII-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="Abrir repositório do FPS-ASCII"/></a>
+👉 [Ver repositório](https://github.com/DutraBrun0/ProdManager)
 
-```console
-bruno@dutra:~$ cat ~/projetos/incident-0317/README
-> Incident 03:17 — simulador de resposta a incidentes
+</details>
 
-  Simulador com interface de terminal para treinar resposta a incidentes.
+<details>
+<summary><b>🎮 FPS-ASCII</b> — FPS de sobrevivência renderizado em ASCII</summary>
+<br>
 
-  [✔] Terminal interativo
-  [✔] Múltiplos cenários e pistas para investigar
-  [✔] Finais diferentes conforme as decisões tomadas
+Jogo de tiro em primeira pessoa com visual 100% ASCII.
 
-  stack: python · flask · javascript · jinja · pytest
-```
-<a href="https://github.com/DutraBrun0/incident-0317"><img src="https://img.shields.io/badge/cd%20incident--0317-0F172A?style=for-the-badge&logo=github&logoColor=22C55E" alt="Abrir repositório do Incident 03:17"/></a>
+- 🔦 Renderização com **raycasting**
+- 🔫 Diferentes armas
+- 👾 Inimigos e chefes
+- 🌊 Sistema progressivo de ondas
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E)
+![pygame-ce](https://img.shields.io/badge/pygame--ce-0F172A?style=flat-square&logoColor=22C55E)
+![Raycasting](https://img.shields.io/badge/Raycasting-0F172A?style=flat-square&logoColor=22C55E)
+
+👉 [Ver repositório](https://github.com/DutraBrun0/FPS-ASCII)
+
+</details>
+
+<details>
+<summary><b>🚨 Incident 03:17</b> — simulador de resposta a incidentes</summary>
+<br>
+
+Simulador com interface de terminal para treinar resposta a incidentes.
+
+- 🖥️ Terminal interativo
+- 🧩 Múltiplos cenários e pistas para investigar
+- 🔀 Diferentes resultados conforme as decisões tomadas
+
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22C55E)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=22C55E)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=22C55E)
+![Jinja](https://img.shields.io/badge/Jinja-0F172A?style=flat-square&logo=jinja&logoColor=22C55E)
+![Pytest](https://img.shields.io/badge/Pytest-0F172A?style=flat-square&logo=pytest&logoColor=22C55E)
+
+👉 [Ver repositório](https://github.com/DutraBrun0/incident-0317)
+
+</details>
+
 
 ## 🎓 Formação
 
