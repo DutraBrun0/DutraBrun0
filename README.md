@@ -42,7 +42,7 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 ##  Projetos em destaque
 
-### [ProdManager](https://github.com/DutraBrun0/ProdManager)
+###  ProdManager
 
 ```yaml
 descrição: Gestão de produtos, variantes, estoque, clientes e pedidos
@@ -53,7 +53,9 @@ destaques:
 stack: Python • Flask • MySQL • SQLAlchemy • Pytest
 ```
 
-### [FPS-ASCII](https://github.com/DutraBrun0/FPS-ASCII)
+<a href="https://github.com/DutraBrun0/ProdManager"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do ProdManager"/></a>
+
+###  FPS-ASCII
 
 ```yaml
 descrição: FPS de sobrevivência com visual 100% ASCII
@@ -65,7 +67,9 @@ destaques:
 stack: Python • pygame-ce • Raycasting
 ```
 
-### [Incident 03:17](https://github.com/DutraBrun0/incident-0317)
+<a href="https://github.com/DutraBrun0/FPS-ASCII"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do FPS-ASCII"/></a>
+
+### Incident 03:17
 
 ```yaml
 descrição: Simulador com interface de terminal para treinar resposta a incidentes
@@ -76,6 +80,7 @@ destaques:
 stack: Python • Flask • JavaScript • Jinja • Pytest
 ```
 
+<a href="https://github.com/DutraBrun0/incident-0317"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Incident 03:17"/></a>
 ##  Formação
 
 - **Engenharia de Software — UNICID**  
