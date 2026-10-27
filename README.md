@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Apresentação animada (→ readme-typing-svg.demolab.com)](https://git.io/typing-svg)
+![Apresentação animada (→ readme-typing-svg.demolab.com)] (https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://portfoliobrunodutra.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=firefox-browser&logoColor=22C55E" alt="Portfólio"/></a>
