@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://SEU-PORTFOLIO-AQUI.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=firefox-browser&logoColor=22C55E" alt="Portfólio"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=DutraBrun0&label=Visitas&color=22c55e&style=flat-square" alt="Contador de visitas"/>
 
 </div>
 
