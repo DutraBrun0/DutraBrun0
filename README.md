@@ -45,15 +45,15 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 <div align="center">
 
 <a href="https://github.com/DutraBrun0/ProdManager">
-  <img src="./assets/prodmanager.svg" width="70%" alt="ProdManager — gestão de produtos, estoque e pedidos"/>
+  <img src="./assets/prodmanager.svg" width="80%" alt="ProdManager — gestão de produtos, estoque e pedidos"/>
 </a>
 
 <a href="https://github.com/DutraBrun0/FPS-ASCII">
-  <img src="./assets/fps-ascii.svg" width="100%" alt="FPS-ASCII — FPS de sobrevivência em ASCII"/>
+  <img src="./assets/fps-ascii.svg" width="80%" alt="FPS-ASCII — FPS de sobrevivência em ASCII"/>
 </a>
 
 <a href="https://github.com/DutraBrun0/incident-0317">
-  <img src="./assets/incident-0317.svg" width="100%" alt="Incident 03:17 — simulador de resposta a incidentes"/>
+  <img src="./assets/incident-0317.svg" width="80%" alt="Incident 03:17 — simulador de resposta a incidentes"/>
 </a>
 
 </div>
