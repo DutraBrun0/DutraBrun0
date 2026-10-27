@@ -10,7 +10,7 @@
 
 </div>
 
-## 👋 Sobre mim
+##  Sobre mim
 
 ```yaml
 nome:          Bruno Moreira Dutra
@@ -24,7 +24,7 @@ Gosto de transformar regras de negócio em aplicações organizadas e funcionais
 
 Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e construir um portfólio que demonstre não apenas as tecnologias que conheço, mas também os problemas que consigo resolver com elas.
 
-## 🛠️ Tecnologias e ferramentas
+##  Tecnologias e ferramentas
 
 <div align="center">
 
@@ -40,7 +40,7 @@ Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e c
 
 Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integração com **APIs REST** nos meus projetos.
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 <div align="center">
 
@@ -56,17 +56,17 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 </div>
 
-> 💡 Clique em cada projeto abaixo para ver os detalhes.
+>  Clique em cada projeto abaixo para ver os detalhes.
 
 <details>
-<summary><b>📦 ProdManager</b> — gestão de produtos, estoque e pedidos</summary>
+<summary><b> ProdManager</b> — gestão de produtos, estoque e pedidos</summary>
 <br>
 
 Sistema completo de gestão de **produtos, variantes, estoque, clientes e pedidos**.
 
-- 🔐 Autenticação e perfis de acesso
-- 🗄️ Migrações de banco de dados com Flask-Migrate
-- ✅ Testes automatizados com Pytest
+-  Autenticação e perfis de acesso
+-  Migrações de banco de dados com Flask-Migrate
+-  Testes automatizados com Pytest
 
 !Python (→ img.shields.io)
 !Flask (→ img.shields.io)
@@ -74,38 +74,38 @@ Sistema completo de gestão de **produtos, variantes, estoque, clientes e pedido
 !SQLAlchemy (→ img.shields.io)
 !Pytest (→ img.shields.io)
 
-👉 Ver repositório (→ github.com)
+ Ver repositório (→ github.com)
 
 </details>
 
 <details>
-<summary><b>🎮 FPS-ASCII</b> — FPS de sobrevivência renderizado em ASCII</summary>
+<summary><b> FPS-ASCII</b> — FPS de sobrevivência renderizado em ASCII</summary>
 <br>
 
 Jogo de tiro em primeira pessoa com visual 100% ASCII.
 
-- 🔦 Renderização com **raycasting**
-- 🔫 Diferentes armas
-- 👾 Inimigos e chefes
-- 🌊 Sistema progressivo de ondas
+-  Renderização com **raycasting**
+-  Diferentes armas
+-  Inimigos e chefes
+-  Sistema progressivo de ondas
 
 !Python (→ img.shields.io)
 !pygame-ce (→ img.shields.io)
 !Raycasting (→ img.shields.io)
 
-👉 Ver repositório (→ github.com)
+ Ver repositório (→ github.com)
 
 </details>
 
 <details>
-<summary><b>🚨 Incident 03:17</b> — simulador de resposta a incidentes</summary>
+<summary><b> Incident 03:17</b> — simulador de resposta a incidentes</summary>
 <br>
 
 Simulador com interface de terminal para treinar resposta a incidentes.
 
-- 🖥️ Terminal interativo
-- 🧩 Múltiplos cenários e pistas para investigar
-- 🔀 Diferentes resultados conforme as decisões tomadas
+-  Terminal interativo
+-  Múltiplos cenários e pistas para investigar
+-  Diferentes resultados conforme as decisões tomadas
 
 !Python (→ img.shields.io)
 !Flask (→ img.shields.io)
@@ -113,11 +113,11 @@ Simulador com interface de terminal para treinar resposta a incidentes.
 !Jinja (→ img.shields.io)
 !Pytest (→ img.shields.io)
 
-👉 Ver repositório (→ github.com)
+ Ver repositório (→ github.com)
 
 </details>
 
-## 🎓 Formação
+##  Formação
 
 - **Engenharia de Software — UNICID**  
   Graduação em andamento.
