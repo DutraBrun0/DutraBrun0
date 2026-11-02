@@ -35,7 +35,7 @@ Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e c
 
 ### Front-end e desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub e VS Code"/>
 
 </div>
 
