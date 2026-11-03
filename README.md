@@ -1,16 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:14532D,100:22C55E&height=220&section=header&text=Bruno%20Dutra&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Python%20%E2%80%A2%20Flask%20%E2%80%A2%20APIs%20REST%20%E2%80%A2%20SQL&descAlignY=60&descSize=18&animation=fadeIn" alt="Banner animado de apresentação de Bruno Dutra"/>
+<p align="center">
+  <img src="./banner-ronin.svg" alt="Banner animado de apresentação de Bruno Dutra" width="100%"/>
+</p>
 
 <div align="center">
 
-[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+%40+UNICID;Construindo+aplica%C3%A7%C3%B5es+com+Python+e+Flask)](https://git.io/typing-svg)
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=D4141F&center=true&vCenter=true&width=680&lines=Desenvolvedor+Back-end+em+forma%C3%A7%C3%A3o;Engenharia+de+Software+%40+UNICID;Construindo+aplica%C3%A7%C3%B5es+com+Python+e+Flask)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-16A34A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://portfoliobrunodutra.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0F172A?style=for-the-badge&logo=firefox-browser&logoColor=22C55E" alt="Portfólio"/></a>
-
+<a href="https://www.linkedin.com/in/brunodutraaa/"><img src="https://img.shields.io/badge/LinkedIn-B3121B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://portfoliobrunodutra.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0D070B?style=for-the-badge&logo=firefox-browser&logoColor=D4141F" alt="Portfólio"/></a>
 
 </div>
 
-##  Sobre mim
+## Sobre mim
 
 ```yaml
 nome:          Bruno Moreira Dutra
@@ -24,7 +25,7 @@ Gosto de transformar regras de negócio em aplicações organizadas e funcionais
 
 Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e construir um portfólio que demonstre não apenas as tecnologias que conheço, mas também os problemas que consigo resolver com elas.
 
-##  Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 <div align="center">
 
@@ -40,55 +41,34 @@ Atualmente, desenvolvo projetos próprios para aprofundar meus conhecimentos e c
 
 Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integração com **APIs REST** nos meus projetos.
 
-##  Projetos em destaque
+## Projetos em destaque
 
-###  ProdManager
+| Projeto | O que é | Stack |
+|---|---|---|
+|  [**ProdManager**](https://github.com/DutraBrun0/ProdManager) | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
+|  [**Passo a Byte**](https://github.com/DutraBrun0/passo-a-byte) · [acessar](https://passoabyte.vercel.app) | Plataforma para aprender Python e JS no navegador: 106 lições com correção automática, desafio do robô no labirinto, XP e streak, visual pixel art | React · Tailwind · Pyodide · CodeMirror |
+|  [**FPS-ASCII**](https://github.com/DutraBrun0/FPS-ASCII) | Tiro em primeira pessoa todo em ASCII, com raycasting, várias armas, inimigos, chefes e sistema de ondas | Python · pygame-ce · POO |
+|  [**Incident 03:17**](https://github.com/DutraBrun0/incident-0317) | Simulador de resposta a incidentes em produção, com cenários, pistas e finais que dependem das suas decisões | Python · Flask · Jinja · Pytest |
+|  [**GitScope**](https://github.com/DutraBrun0/GitScope) | Analisa perfis do GitHub: repositórios, estrelas e porcentagem de linguagens, tratando erros e rate limit | Flask · Requests · GitHub API · Pytest |
+|  [**Mandato Aberto**](https://github.com/DutraBrun0/Mandato-aberto) | Consulta dados públicos de deputados federais pela API de Dados Abertos da Câmara | HTML · CSS · JS · Fetch API |
+|  [**Reciclê Bairro**](https://github.com/DutraBrun0/U-UNICID-ADS-FRONTEND-2260025-N3-2-2026-NT-RECICLE_BAIRRO) | Site acadêmico que conecta moradores a pontos de coleta e cooperativas da Zona Leste de SP, com foco em acessibilidade | HTML5 semântico · CSS |
 
-```yaml
-descrição: Gestão de produtos, variantes, estoque, clientes e pedidos
-destaques:
-  - Autenticação e perfis de acesso
-  - Migrações de banco de dados com Flask-Migrate
-  - Testes automatizados com Pytest
-stack: Python • Flask • MySQL • SQLAlchemy • Pytest
-```
+<details>
+<summary><b>Outros projetos</b> (estudos e prática)</summary>
+<br/>
 
-<a href="https://github.com/DutraBrun0/ProdManager"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do ProdManager"/></a>
+- [controle_alunos](https://github.com/DutraBrun0/controle_alunos): cadastro e gestão de alunos para treinar lógica de programação
+- [mini-cadastro-de-produtos](https://github.com/DutraBrun0/mini-cadastro-de-produtos): sistema de loja com cadastro, cálculo de compra e formas de pagamento
+- [controle-financeiro](https://github.com/DutraBrun0/controle-financeiro): controle financeiro em Python
+- [CRUD](https://github.com/DutraBrun0/CRUD): operações de CRUD em Python
+- [Projeto Integrador: Modelagem de Dados](https://github.com/DutraBrun0/Projeto-Integrador-Modelagem-de-Dados)
 
-###  FPS-ASCII
+</details>
 
-```yaml
-descrição: FPS de sobrevivência com visual 100% ASCII
-destaques:
-  - Renderização com raycasting
-  - Diferentes armas
-  - Inimigos e chefes
-  - Sistema progressivo de ondas
-stack: Python • pygame-ce • Raycasting
-```
-
-<a href="https://github.com/DutraBrun0/FPS-ASCII"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do FPS-ASCII"/></a>
-
-### Incident 03:17
-
-```yaml
-descrição: Simulador com interface de terminal para treinar resposta a incidentes
-destaques:
-  - Terminal interativo
-  - Múltiplos cenários e pistas para investigar
-  - Diferentes resultados conforme as decisões tomadas
-stack: Python • Flask • JavaScript • Jinja • Pytest
-```
-
-<a href="https://github.com/DutraBrun0/incident-0317"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório do Incident 03:17"/></a>
-##  Formação
+## Formação
 
 - **Engenharia de Software — UNICID**  
   Graduação em andamento.
 
 - **Análise e Desenvolvimento de Sistemas — SENAI/SP**  
   Curso técnico concluído.
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:0F172A&height=100&section=footer" alt="Rodapé"/>
