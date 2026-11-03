@@ -109,8 +109,7 @@
 <line class="line" x1="60" y1="132" x2="360" y2="132" stroke="#d4141f" stroke-width="3"/>
 <rect x="366" y="126" width="12" height="12" transform="rotate(45 372 132)" fill="#d4141f" class="fade2"/>
 <g class="fade2">
-<text class="serif" x="62" y="164" font-size="14" letter-spacing="5" fill="#b9a99a">RONIN DO BACK-END · PYTHON · FLASK</text>
-<text class="serif" x="62" y="196" font-size="13" font-style="italic" fill="#8e7f73">"Cada bug derrotado é um passo no caminho."</text>
-<text class="serif" x="62" y="236" font-size="11" letter-spacing="4" fill="#6e5f56">ENG. DE SOFTWARE · UNICID · SÃO PAULO</text>
+<text class="serif" x="62" y="164" font-size="14" letter-spacing="5" fill="#b9a99a">BACK-END · PYTHON</text>
+<text class="serif" x="62" y="196" font-size="11" letter-spacing="4" fill="#6e5f56">ENG. DE SOFTWARE · UNICID · SÃO PAULO</text>
 </g>
 </svg>
