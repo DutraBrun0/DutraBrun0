@@ -45,13 +45,13 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| 🏪 [**ProdManager**](https://github.com/DutraBrun0/ProdManager) | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
-| 🎓 [**Passo a Byte**](https://github.com/DutraBrun0/passo-a-byte) · [acessar](https://passoabyte.vercel.app) | Plataforma para aprender Python e JS no navegador: 106 lições com correção automática, desafio do robô no labirinto, XP e streak, visual pixel art | React · Tailwind · Pyodide · CodeMirror |
-| 🔫 [**FPS-ASCII**](https://github.com/DutraBrun0/FPS-ASCII) | Tiro em primeira pessoa todo em ASCII, com raycasting, várias armas, inimigos, chefes e sistema de ondas | Python · pygame-ce · POO |
-| 🚨 [**Incident 03:17**](https://github.com/DutraBrun0/incident-0317) | Simulador de resposta a incidentes em produção, com cenários, pistas e finais que dependem das suas decisões | Python · Flask · Jinja · Pytest |
-| 🔍 [**GitScope**](https://github.com/DutraBrun0/GitScope) | Analisa perfis do GitHub: repositórios, estrelas e porcentagem de linguagens, tratando erros e rate limit | Flask · Requests · GitHub API · Pytest |
-| 🏛️ [**Mandato Aberto**](https://github.com/DutraBrun0/Mandato-aberto) | Consulta dados públicos de deputados federais pela API de Dados Abertos da Câmara | HTML · CSS · JS · Fetch API |
-| ♻️ [**Reciclê Bairro**](https://github.com/DutraBrun0/U-UNICID-ADS-FRONTEND-2260025-N3-2-2026-NT-RECICLE_BAIRRO) | Site acadêmico que conecta moradores a pontos de coleta e cooperativas da Zona Leste de SP, com foco em acessibilidade | HTML5 semântico · CSS |
+|  [**ProdManager**](https://github.com/DutraBrun0/ProdManager) | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
+|  [**Passo a Byte**](https://github.com/DutraBrun0/passo-a-byte) · [acessar](https://passoabyte.vercel.app) | Plataforma para aprender Python e JS no navegador: 106 lições com correção automática, desafio do robô no labirinto, XP e streak, visual pixel art | React · Tailwind · Pyodide · CodeMirror |
+|  [**FPS-ASCII**](https://github.com/DutraBrun0/FPS-ASCII) | Tiro em primeira pessoa todo em ASCII, com raycasting, várias armas, inimigos, chefes e sistema de ondas | Python · pygame-ce · POO |
+|  [**Incident 03:17**](https://github.com/DutraBrun0/incident-0317) | Simulador de resposta a incidentes em produção, com cenários, pistas e finais que dependem das suas decisões | Python · Flask · Jinja · Pytest |
+|  [**GitScope**](https://github.com/DutraBrun0/GitScope) | Analisa perfis do GitHub: repositórios, estrelas e porcentagem de linguagens, tratando erros e rate limit | Flask · Requests · GitHub API · Pytest |
+|  [**Mandato Aberto**](https://github.com/DutraBrun0/Mandato-aberto) | Consulta dados públicos de deputados federais pela API de Dados Abertos da Câmara | HTML · CSS · JS · Fetch API |
+|  [**Reciclê Bairro**](https://github.com/DutraBrun0/U-UNICID-ADS-FRONTEND-2260025-N3-2-2026-NT-RECICLE_BAIRRO) | Site acadêmico que conecta moradores a pontos de coleta e cooperativas da Zona Leste de SP, com foco em acessibilidade | HTML5 semântico · CSS |
 
 <details>
 <summary><b>Outros projetos</b> (estudos e prática)</summary>
