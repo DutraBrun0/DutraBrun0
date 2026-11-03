@@ -43,10 +43,10 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 ## Projetos em destaque
 
-| Projeto | O que é | Stack |
-|---|---|---|
-|  **ProdManager** <a href="https://github.com/DutraBrun0/ProdManager"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-0D070B?style=for-the-badge&logo=github&logoColor=D4141F" alt="Ver repositório do ProdManager"/></a> | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
-|  [**Passo a Byte**](https://github.com/DutraBrun0/passo-a-byte) · [acessar](https://passoabyte.vercel.app) | Plataforma para aprender Python e JS no navegador: 106 lições com correção automática, desafio do robô no labirinto, XP e streak, visual pixel art | React · Tailwind · Pyodide · CodeMirror |
+| Projeto | O que é | Stack | Repositório |
+|---|---|---|---|
+|  **ProdManager** | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
+|  [**Passo a Byte**](https://github.com/DutraBrun0/passo-a-byte) · [acessar](https://passoabyte.vercel.app) | Plataforma para aprender Python e JS no navegador: 106 lições com correção automática, desafio do robô no labirinto, XP e streak, visual pixel art | React · Tailwind · Pyodide · CodeMirror |  <a href="https://github.com/DutraBrun0/ProdManager"><img src="https://img.shields.io/badge/Ver%20reposit%C3%B3rio-0D070B?style=for-the-badge&logo=github&logoColor=D4141F" alt="Ver repositório do ProdManager"/></a>
 |  [**FPS-ASCII**](https://github.com/DutraBrun0/FPS-ASCII) | Tiro em primeira pessoa todo em ASCII, com raycasting, várias armas, inimigos, chefes e sistema de ondas | Python · pygame-ce · POO |
 |  [**Incident 03:17**](https://github.com/DutraBrun0/incident-0317) | Simulador de resposta a incidentes em produção, com cenários, pistas e finais que dependem das suas decisões | Python · Flask · Jinja · Pytest |
 |  [**GitScope**](https://github.com/DutraBrun0/GitScope) | Analisa perfis do GitHub: repositórios, estrelas e porcentagem de linguagens, tratando erros e rate limit | Flask · Requests · GitHub API · Pytest |
