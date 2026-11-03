@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner-ronin.svg" alt="Banner animado de apresentação de Bruno Dutra" width="100%"/>
+
 </p>
 
 <div align="center">
