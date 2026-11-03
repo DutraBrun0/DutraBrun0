@@ -45,7 +45,7 @@ Também utilizo **SQLAlchemy**, **Flask-Migrate**, **Pytest**, **Jinja** e integ
 
 | Projeto | O que é | Stack |
 |---|---|---|
-|  [**ProdManager**](https://github.com/DutraBrun0/ProdManager) | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
+|  [**ProdManager**] | Gestão de produtos, variantes, estoque, clientes e pedidos, com autenticação, perfis de acesso, migrations e testes | Flask · SQLAlchemy · MySQL · Pytest |
 |  [**Passo a Byte**](https://github.com/DutraBrun0/passo-a-byte) · [acessar](https://passoabyte.vercel.app) | Plataforma para aprender Python e JS no navegador: 106 lições com correção automática, desafio do robô no labirinto, XP e streak, visual pixel art | React · Tailwind · Pyodide · CodeMirror |
 |  [**FPS-ASCII**](https://github.com/DutraBrun0/FPS-ASCII) | Tiro em primeira pessoa todo em ASCII, com raycasting, várias armas, inimigos, chefes e sistema de ondas | Python · pygame-ce · POO |
 |  [**Incident 03:17**](https://github.com/DutraBrun0/incident-0317) | Simulador de resposta a incidentes em produção, com cenários, pistas e finais que dependem das suas decisões | Python · Flask · Jinja · Pytest |
